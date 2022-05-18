@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class HeaderComponent implements OnInit {
   
   title: string = "Lista de Tareas"
-  texto: string = "Hola soy Carim";
+  texto: string = "";
   
   constructor() { }
 
